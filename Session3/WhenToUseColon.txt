@@ -1,0 +1,23 @@
+In python we use the colon ':' to define when we will indent.
+
+We use the colon for:
+1) Loops
+2) If statements
+3) Functions
+
+A couple examples would be:
+
+
+def myFunction(): 
+	# Code here
+	...
+	...
+	...
+
+
+user_is_active = True
+if user_is_active:
+	# Do this
+	...
+	...
+	...

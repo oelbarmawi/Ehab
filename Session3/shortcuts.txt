@@ -1,0 +1,29 @@
+Shortcuts in Python:
+
+
+We have some variable x. And we assign to 5 as follows:
+
+x = 5
+
+Now we want to increment by 1.
+
+One way to do this is by writing
+
+`x = x + 1`
+
+That would reassign x to 6.
+
+But there is a shortcut for writing this because it is so common.
+
+
+`x += 1`	<===>	'x = x + 1'
+
+
+You can also do multiplication like this:
+
+'x *= 5'	<===>	'x = x * 5'
+
+
+For division:
+
+'x /= 3'	<===>	'x = x / 3'
